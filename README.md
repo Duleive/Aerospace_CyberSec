@@ -8,8 +8,29 @@
 
 
 ## 販売ページ
+印刷書籍版：
 
-- Amazon販売ページ 『[空と宇宙のサイバーセキュリティ入門　航空宇宙システムの基礎から衛星ハッキング対策まで (技術の泉シリーズ) オンデマンド (ペーパーバック) – ](https://amzn.asia/d/eWkbayj)』
+- Amazon販売ページ 『[空と宇宙のサイバーセキュリティ入門　航空宇宙システムの基礎から衛星ハッキング対策まで (技術の泉シリーズ) オンデマンド (ペーパーバック) –](https://amzn.asia/d/eWkbayj)』
+
+電子書籍版：
+
+- Amazon販売ページ 『[空と宇宙のサイバーセキュリティ入門　航空宇宙システムの基礎から衛星ハッキング対策まで (技術の泉シリーズ) Kindle Edition–](https://www.amazon.co.jp/gp/product/B0FM28RHNF/)』
+
+- Rakuten ブックス販売ページ 『[空と宇宙のサイバーセキュリティ入門　航空宇宙システムの基礎から衛星ハッキング対策まで　[電子書籍版]](https://books.rakuten.co.jp/rk/19a5071792fe3ab0a25b3bddef84a8c5/)』
+
+- 紀伊国屋書店販売ページ 『[空と宇宙のサイバーセキュリティ入門 - 航空宇宙システムの基礎から衛星ハッキング対策まで](https://www.kinokuniya.co.jp/f/dsg-08-EK-2208111)』
+
+- Google Play販売ページ 『[空と宇宙のサイバーセキュリティ入門: 航空宇宙システムの基礎から衛星ハッキング対策まで](https://play.google.com/store/books/details/%E9%B3%A5%E6%B5%B7_%E5%B9%B8%E4%B8%80_%E7%A9%BA%E3%81%A8%E5%AE%87%E5%AE%99%E3%81%AE%E3%82%B5%E3%82%A4%E3%83%90%E3%83%BC%E3%82%BB%E3%82%AD%E3%83%A5%E3%83%AA%E3%83%86%E3%82%A3%E5%85%A5%E9%96%80?id=Qgx5EQAAQBAJ)』
+
+- 電子書籍ストア honto販売ページ 『[空と宇宙のサイバーセキュリティ入門](https://honto.jp/ebook/pd_34561235.html)』
+
+- Reader Store販売ページ 『[空と宇宙のサイバーセキュリティ入門　航空宇宙システムの基礎から衛星ハッキング対策まで](https://ebookstore.sony.jp/title/11240945/)』
+
+- 電子書籍ストア　ブックライブ販売ページ 『[空と宇宙のサイバーセキュリティ入門　航空宇宙システムの基礎から衛星ハッキング対策まで](https://booklive.jp/product/index/title_id/1972059/vol_no/001)』
+
+- 電子書籍ストア ブックウォーカー販売ページ 『[空と宇宙のサイバーセキュリティ入門　航空宇宙システムの基礎から衛星ハッキング対策まで](https://bookwalker.jp/def35ffa6f-5f90-41a7-9c3e-e0b868731229/)』
+
+- BOOK TECH販売ページ 『[空と宇宙のサイバーセキュリティ入門　航空宇宙システムの基礎から衛星ハッキング対策まで](https://book-tech.com/books/73522b52-368c-42a5-ba25-afb406bb65b8)』
 
 ## はじめにより抜粋
 
@@ -57,6 +78,16 @@
 #### DEFCON33
 今年(2025)のDEFCONが開催されました。Hack-A-Satは開催されなかった様です。その代わり、衛星に関するCTFが二つ開催され、一部はオンラインからの参加も可能でした。
 
+#### 衛星に対する攻撃の脅威
+内閣府ホームページ　[【参考1】人工衛星を無力化する手法と軌道上サービス技術](https://www8.cao.go.jp/space/taskforce/debris/dai5/siryou4_2.pdf)
+
+#### 史上初の宇宙ファイアーウォール衛星
+中国が史上初の「宇宙空間にあるインターネットファイアーウォール衛星」を含む衛星を打ち上げました。[China Launches First-Generation 'Satellite Internet Firewall' Security Payload](https://uniteddaily.my/en/e763c987-6451-4bed-97dd-5bb0ac2bc801)
+
+#### 出版記念講演会開催
+10月11日夜７時より、カフェ ドレッドノート様にて出版記念講演会を開催します。
+[ZOOMライブ配信視聴　「空と宇宙のサイバーセキュリティ入門」鳥海幸一氏　講演会](https://dreadnought20251011z.peatix.com/view)
+
 ## 本文中のリンク
 本書は編集の都合上、いくつかのリンクが電子版において無効になっています。また、リンク切れになっているものもあります。それらについては[本文中のリンク](LINKS.md)にて有効なリンクを公開しています。
 
@@ -85,6 +116,17 @@
 
 本書においてはWikipediaは出典としては使っていませんが、参考のため、該当するページを記載します。
 (作成中)
+
+## 追加のダイアグラム
+第２章　電子戦とサイバー戦の概念について
+<p align="center">
+  <img src="warfare1.jpg" width=30%>
+</p>
+
+第１６章　公開情報・非公開情報と脆弱性
+<p align="center">
+  <img src="hackerinfo.jpg" width=30%>
+</p>
 
 ### Ver
 Ver 0.9 (2025/08/16)
