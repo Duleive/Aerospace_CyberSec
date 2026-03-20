@@ -72,6 +72,13 @@
 
 ## 執筆後の情報
 
+#### 宇宙サイバーセキュリティ講座開催
+2026年3月20日夜７時より、オンラインで[宇宙サイバーセキュリティ講座　第０回：CYSATの報告と今後の講座の予告](https://aerospace.connpass.com/event/385431/)を開催しました。その中で紹介したリファレンスは、[宇宙サイバーセキュリティ講座　リンク集](LINKS2.md)にて公開しています。
+
+
+#### 日本初の航空宇宙CTF開催
+2025年11月23日に渋谷にて開催される[A.V.Tokyo 2025](https://www.avtokyo.org/avtokyo2025)にて、日本初の航空宇宙CTFである、[The Aerospace CTF  in Japan  / 航空宇宙CTF](https://www.avtokyo.org/avtokyo2025/events#h.dqpeqoc6vwme)が開催されました。
+
 #### NOAAシリーズが運用終了
 第４章(p120)及び第１０章(p293)において、NOAA（衛星）シリーズの運用状態[POES Performance Status](https://www.ospo.noaa.gov/operations/poes/status.html)はNOAA-15,18,19全てグリーンでした。しかし、NOAA-18が故障により運用が終了し、残るNOAA-15,19も８月１８日の週に運用が終了することが予告されています。運用終了した衛星は引き続き軌道を回るため、ACTIVEのTLEリストからは外されますが、引き続きTLEによって位置を追跡することは可能です。
 
@@ -129,5 +136,5 @@
 </p>
 
 ### Ver
-Ver 0.9 (2025/08/16)
+Ver 0.9b (2026/03/20)
 ©Koichi Toriumi 2016 All rights reserved.
