@@ -9,10 +9,11 @@
 	    - [内閣府ホームページ「平成31年度以降に係る防衛計画の大綱について」](https://www8.cao.go.jp/space/comittee/dai76/siryou5-1.pdf)
         - [防衛白書(防衛省) 第I部　わが国を取り巻く安全保障環境](http://www.clearing.mod.go.jp/hakusho_data/2022/html/n140201000.html)
         - [内閣府ホームページ　【参考1】人工衛星を無力化する手法と軌道上サービス技術](https://www8.cao.go.jp/space/taskforce/debris/dai5/siryou4_2.pdf)
+        - [民間宇宙システムにおけるサイバーセキュリティ対策ガイドライン Ver 2.0(経産省)](https://www.meti.go.jp/shingikai/mono_info_service/sangyo_cyber/wg_seido/wg_uchu_sangyo/20240328_report.html)
 
 	- 宇宙サイバーセキュリティの衛星
         - [Moonlighter](https://space.skyrocket.de/doc_sdat/moonlighter.htm)
-        - [民間宇宙システムにおけるサイバーセキュリティ対策ガイドライン Ver 2.0(経産省): ](https://www.meti.go.jp/shingikai/mono_info_service/sangyo_cyber/wg_seido/wg_uchu_sangyo/20240328_report.html)
+        - [China Launches First-Generation 'Satellite Internet Firewall' Security Payload](https://uniteddaily.my/en/e763c987-6451-4bed-97dd-5bb0ac2bc801)
 
 	- CYSAT    
         - [CYSAT Youtube](https://www.youtube.com/@CYSAT)
