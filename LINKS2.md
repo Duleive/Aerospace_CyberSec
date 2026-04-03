@@ -56,8 +56,8 @@
         - [リーマンサット](https://www.rymansat.com/)
         - [NASA Space App Challenge](https://tokyo.spaceapps.jp/)
         - [seccon beginners](https://www.seccon.jp/14/) 
-
-- [第１回：全体像、衛星追跡のOSINT技術](#First)
+)
+- 第１回：[全体像、衛星追跡のOSINT技術](#First)
 	- 講座の内容と関係ないですが現在のイベント
     	- [映画「プロジェクト・ヘイルメアリー」公開中](https://projecthm.movie/)
     	- [Artemis IIのテレメトリー情報をリアルタイム 3D表示する、NASA公式のWebアプリケーション](https://www.nasa.gov/missions/artemis-ii/arow)
