@@ -1,6 +1,6 @@
 # 宇宙サイバーセキュリティ講座　リンク集
 
-- 第０回：CYSATの報告と今後の講座の予告
+- 第０回：[CYSATの報告と今後の講座の予告](#Zero)
 	- 他の著作
     	- [情報セキュリティをはじめましょう 第二版](https://techbookfest.org/product/6492115844464640?productVariantID=4757794813116416)
     	- [フォトグラメトリの教科書](https://nextpublishing.jp/book/14716.html)
@@ -57,7 +57,7 @@
         - [NASA Space App Challenge](https://tokyo.spaceapps.jp/)
         - [seccon beginners](https://www.seccon.jp/14/) 
 
-- 第１回：全体像、衛星追跡のOSINT技術
+- [第１回：全体像、衛星追跡のOSINT技術](#First)
 	- 講座の内容と関係ないですが現在のイベント
     	- [映画「プロジェクト・ヘイルメアリー」公開中](https://projecthm.movie/)
     	- [Artemis IIのテレメトリー情報をリアルタイム 3D表示する、NASA公式のWebアプリケーション](https://www.nasa.gov/missions/artemis-ii/arow)
