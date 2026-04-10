@@ -74,13 +74,15 @@
 
 #### 宇宙サイバーセキュリティ講座開催
 2026年3月20日夜７時より、オンラインで[宇宙サイバーセキュリティ講座　第０回：CYSATの報告と今後の講座の予告](https://aerospace.connpass.com/event/385431/)を開催しました。その中で紹介したリファレンスは、[宇宙サイバーセキュリティ講座　リンク集](LINKS2.md)にて公開しています。
+また、4月3日より、連続5回の宇宙サイバーセキュリティ講座を開催中です。詳しくは、[connpassのグループページ][(https://aerospace.connpass.com/)をご覧ください。
 
 
 #### 日本初の航空宇宙CTF開催
 2025年11月23日に渋谷にて開催される[A.V.Tokyo 2025](https://www.avtokyo.org/avtokyo2025)にて、日本初の航空宇宙CTFである、[The Aerospace CTF  in Japan  / 航空宇宙CTF](https://www.avtokyo.org/avtokyo2025/events#h.dqpeqoc6vwme)が開催されました。
 
 #### NOAAシリーズが運用終了
-第４章(p120)及び第１０章(p293)において、NOAA（衛星）シリーズの運用状態[POES Performance Status](https://www.ospo.noaa.gov/operations/poes/status.html)はNOAA-15,18,19全てグリーンでした。しかし、NOAA-18が故障により運用が終了し、残るNOAA-15,19も８月１８日の週に運用が終了することが予告されています。運用終了した衛星は引き続き軌道を回るため、ACTIVEのTLEリストからは外されますが、引き続きTLEによって位置を追跡することは可能です。
+第４章(p120)及び第１０章(p293)において、NOAA（衛星）シリーズの運用状態[POES Performance Status](https://www.ospo.noaa.gov/operations/poes/status.html)はNOAA-15,18,19全てグリーンでした。しかし、NOAA-18が故障により運用が終了し、残るNOAA-15,19も2025年8月18日に運用が終了しました。運用終了した衛星はCelesTrakの、ACTIVEのTLEリストからは外され、代わりにNOAA-20がACTIVEリストに入りました。それに伴い、サンプルに使っていた衛星をNOAA 15から、NOAA 20に変え、また、経過時間が長いのですべてのTLEを最新（2026年4月）に更新し、サポートページにおけるソースコードを更新しました。新しいソースコードは以下からダウンロードしてください。
+[第9章のソースコード (修正・データの更新済)](https://github.com/Duleive/Aerospace_CyberSec/blob/main/sourcecode.md)
 
 #### DEFCON33
 今年(2025)のDEFCONが開催されました。Hack-A-Satは開催されなかった様です。その代わり、衛星に関するCTFが二つ開催され、一部はオンラインからの参加も可能でした。
@@ -99,8 +101,8 @@
 本書は編集の都合上、いくつかのリンクが電子版において無効になっています。また、リンク切れになっているものもあります。それらについては[本文中のリンク](LINKS.md)にて有効なリンクを公開しています。
 
 ## 第9章のプログラミングのソースコード
-本書第9章　衛星編III 衛星の軌道計算とプログラミングにおいて、Pythonのソースコードが掲載されています。そのソースコードを[こちら](sourcecode.md)にて公開しています。
-
+本書第9章　衛星編III 衛星の軌道計算とプログラミングにおいて、Pythonのソースコードが掲載されています。
+[第9章のソースコード (修正・データの更新済)](https://github.com/Duleive/Aerospace_CyberSec/blob/main/sourcecode.md)
 
 ## 底本
 
