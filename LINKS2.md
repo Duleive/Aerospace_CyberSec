@@ -151,5 +151,85 @@
     - 次回第２回の準備
         - [JupyterLab](https://jupyter.org/)
         - [ANACONDA download](https://www.anaconda.com/download)
-    
 
+- 第２回：[宇宙プログラミング入門](#Second)
+	- 講座の内容と関係ないですが現在のイベント
+    	- [映画「プロジェクト・ヘイルメアリー」公開中](https://projecthm.movie/)
+    	- [Artemis IIのテレメトリー情報をリアルタイム 3D表示する、NASA公式のWebアプリケーション](https://www.nasa.gov/missions/artemis-ii/arow)
+        - [技術書典20 オンライン4/11-4/26 オフライン4/12](https://techbookfest.org/event/tbf20/)
+
+    - 第１回の復習：Webアプリケーション
+    	- [気象衛星ひまわり](https://www.jma.go.jp/bosai/map.htm)
+    	- [NOAA](https://www.noaa.gov/)
+    	- [NOAA GOES](https://www.star.nesdis.noaa.gov/GOES/index.php)
+        - [SatNOGS – Open Source global network of satellite ground](https://satnogs.org/)
+    	- [N2YO](https://www.n2yo.com/)
+    	- [satellite tracker3D](https://satellitetracker3d.com/)
+    	- [NORAD(北アメリカ航空宇宙防衛司令部)](https://ja.wikipedia.org/wiki/%E5%8C%97%E3%82%A2%E3%83%A1%E3%83%AA%E3%82%AB%E8%88%AA%E7%A9%BA%E5%AE%87%E5%AE%99%E9%98%B2%E8%A1%9B%E5%8F%B8%E4%BB%A4%E9%83%A8)
+    	- [CelesTrak](https://celestrak.org/)
+
+    - 第１回の復習：衛星追跡をするには
+    	- [Celestrak -> Current -> Active から必要部分の抽出](https://github.com/Duleive/Aerospace_CyberSec/blob/main/sampleTLE.txt)
+    	- [小説　オービタル・クラウド](https://amzn.asia/d/0gkgI7Nq)
+    	- [昔のアニメとかでよく「こうやってテープを読む科学者」が出てきましたが、実際に読める物なんでしょうか？→古の技術を「読める」という報告例が続々](https://togetter.com/li/2537197)
+    	- [TLEから軌道要素を計算](https://satellitemap.space/tle-calculator)
+    	- [軌道の可視化(3D)](http://orbitalmechanics.info/)
+        - [NASA Space App Challenge Tokyo](https://tokyo.spaceapps.jp/)
+        - [Hack-A-Sat (CTF)](https://afresearchlab.com/hack-a-sat/)
+
+    - プログラミング
+    	- [Google Colaboratory](https://colab.research.google.com/)
+    	- [Python](https://www.python.org/)
+    	- [JupyterLab](https://jupyter.org/)
+    	- [Anaconda](https://www.anaconda.com/)
+    	- [Scratch](https://scratch.mit.edu/)
+    	- [JAXA プログラミング教材「ロケット編」と「はやぶさ２編」を公開しました (2020)](https://edu.jaxa.jp/news/2020/i-0421.html)
+    	- [Pythonを使って人工衛星の軌道を表現する～軌道６要素、TLE～ (2021)](https://sorabatake.jp/23655/)
+    	- [プログラミングに使うデータ](sampleTLE.txt)
+    	- [プログラミングのコピペ元](sourcecode.md)
+    	- [今日の講義の解答集](https://colab.research.google.com/drive/1ECW7LJImbNXd3toXXO1zlBAsWQ2Ptwob?usp=sharing)      
+
+    - 科学史
+    	- [リベラル・アーツ](https://ja.wikipedia.org/wiki/%E3%83%AA%E3%83%99%E3%83%A9%E3%83%AB%E3%83%BB%E3%82%A2%E3%83%BC%E3%83%84)
+    	- [天体観察ガイド「2016　火星を見よう」](https://www.sendai-astro.jp/observation/blog/2015/12/2016-1.html)
+    	- [地動説と天動説について / 科学](https://info-zebra.com/geocentrism-heliocentrism/)
+    	- [天体の質量はどうやって量る？](https://www.shimadzu.co.jp/kokonimo/article/03.html)
+    	- [漫画「プリニウス」](https://www.shinchosha.co.jp/plinivs/about/)
+    	- [ルネッサンスのパブリックドメイン画像](https://www.rawpixel.com/search/public%20domain%20renaissance?page=1&path=1522&sort=curated)
+    	- [The Abbasid Greco–Arabic translation movement; the cultural rivalry & exchanges with the Eastern Roman Empire](https://novoscriptorium.com/2019/04/15/the-abbasid-greco-arabic-translation-movement-the-cultural-rivalry-exchanges-with-the-eastern-roman-empire/)
+    	- [ガリレオ裁判(1615)](https://ja.wikipedia.org/wiki/%E3%82%AC%E3%83%AA%E3%83%AC%E3%82%AA%E8%A3%81%E5%88%A4)
+    	- [チ。—地球の運動について—](https://bigcomics.jp/series/d971696b96e1e)
+    	- [ニュートン「プリンキピア」](https://ja.wikipedia.org/wiki/%E8%87%AA%E7%84%B6%E5%93%B2%E5%AD%A6%E3%81%AE%E6%95%B0)
+    	- [ヨハネス・ケプラー](https://ja.wikipedia.org/wiki/%E3%83%A8%E3%83%8F%E3%83%8D%E3%82%B9%E3%83%BB%E3%82%B1%E3%83%97%E3%83%A9%E3%83%BC)
+    	- [ケプラーの三法則](https://ja.wikipedia.org/wiki/%E3%82%B1%E3%83%97%E3%83%A9%E3%83%BC%E3%81%AE%E6%B3%95%E5%89%87)
+    	- [宇宙像の変遷 (講談社学術文庫 1235)](https://amzn.asia/d/05tMepO3)
+    	- [物理科学史 (放送大学教材)](https://amzn.asia/d/0fhm4I2t)
+
+    - 衛星の軌道
+        - [王立宇宙軍　オネアミスの翼](https://www.amazon.co.jp/dp/B01L7OXMOI)
+        - [宇宙旅行の現在とは？　3種類に分類して現状や価格帯、提供企業を解説！](https://news.mynavi.jp/techplus/article/20210521-1891512/)
+        - [様々な人工衛星](https://www.satnavi.jaxa.jp/ja/satellite-knowledge/whats-eosatellite/satellite-type/index.html)
+        - [映画「ゼロ・グラビティ」](https://www.amazon.co.jp/-/en/gp/video/detail/B00J7FP3FG/)
+        - [映画「エヴァンゲリオン新劇場版:Q」](https://www.amazon.co.jp/dp/B0DWSHTKC2)
+        - [ヱヴァンゲリヲン新劇場版：Ｑ 冒頭6分38秒 宇宙考証の解説](https://ssl.fpark.tmu.ac.jp/discussion_q.html)
+
+    - 衛星の軌道計算
+        - [Two Line Element (TLE)の説明](https://gportal.jaxa.jp/gpr/assets/mng_upload/GCOM-C/TLE_ja.pdf)
+        - [人工衛星・惑星探査機のための宇宙工学](https://amzn.asia/d/0c5fKgJR)
+        - [ゲーム「サイオブレード」](https://www.amusement-center.com/project/egg/game/?product_id=1863)
+
+    - 創作物の紹介
+        - [映画「ライトスタッフ」](https://www.warnerbros.co.jp/home_entertainment/sul2h8khnj/)
+        - [王立宇宙軍　オネアミスの翼](https://www.amazon.co.jp/dp/B01L7OXMOI)
+
+    - 宇宙サイバーセキュリティの学位、キャリア、資格
+        - [NASA Space App Challenge Tokyo](https://tokyo.spaceapps.jp/)
+        - [Hack-A-Sat (CTF)](https://afresearchlab.com/hack-a-sat/)
+        - [ERAU 航空機サイバーセキュリティ専攻修士課程](https://erau.edu/degrees/master/aviation-cybersecurity)
+        - [ERAU 航空宇宙工学専攻学士課程](https://erau.edu/degrees/bachelor/aerospace-engineering)
+        - [セキュリティの学会/研究会ってなにがあるの？](https://zenn.dev/bob_sec/books/d70930d45ebc7f/viewer/182854)
+        - [ERAU 航空宇宙工学専攻学士課程](https://erau.edu/degrees/bachelor/aerospace-engineering)
+        - [国際宇宙大学](https://www.isunet.edu/)
+        - [無線従事者資格一覧](https://www.tele.soumu.go.jp/j/ref/material/capacity/)
+        - [無線従事者の資格をとるには](https://www.nichimu.or.jp/denpa/)
+        - [漫画「MOONLIGHT MILE」第1巻](https://bigcomicbros.net/comics/30366/)
