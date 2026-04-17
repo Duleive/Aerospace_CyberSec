@@ -233,3 +233,55 @@
         - [無線従事者資格一覧](https://www.tele.soumu.go.jp/j/ref/material/capacity/)
         - [無線従事者の資格をとるには](https://www.nichimu.or.jp/denpa/)
         - [漫画「MOONLIGHT MILE」第1巻](https://bigcomicbros.net/comics/30366/)
+
+- 第３回：[民間人のためのサイバーセキュリティ入門](#Third)
+	- 講座の内容と関係ないですが現在のイベント
+    	- [映画「プロジェクト・ヘイルメアリー」公開中](https://projecthm.movie/)
+        - [技術書典20 オンライン4/11-4/26](https://techbookfest.org/event/tbf20/)
+        - [航空機と衛星のサイバーセキュリティ入門II 「空と宇宙のサイバーセキュリティ入門」補足](https://techbookfest.org/product/7wcHbwRP7xXEcfjbeCFGyB?productVariantID=nKstrBc5DDa9q8eVih3Z8U)
+        - [Hacking the Final Frontier: Offensive Security in Space Systems and Satellites [209]　4/21-22](https://blackhat.com/asia-26/training/schedule/index.html#hacking-the-final-frontier-offensive-security-in-space-systems-and-satellites-209-49698)
+
+    - 第１回、第２回の復習：
+    	- [気象衛星ひまわり](https://www.jma.go.jp/bosai/map.htm)
+        - [SatNOGS – Open Source global network of satellite ground](https://satnogs.org/)
+    	- [N2YO](https://www.n2yo.com/)
+    	- [Google Colaboratory](https://colab.research.google.com/)
+
+    - 一般的なサイバーセキュリティ    
+        - [民間宇宙システムにおけるサイバーセキュリティ対策ガイドライン Ver 2.0(経産省)](https://www.meti.go.jp/shingikai/mono_info_service/sangyo_cyber/wg_seido/wg_uchu_sangyo/20240328_report.html)
+        - [Phishing email 対策](https://support.microsoft.com/en-us/security/protect-yourself-from-phishing)
+        - [Virus Total](https://www.virustotal.com/gui/home/upload)
+        - [Have I been pawned](https://haveibeenpwned.com/)
+
+    - 脅威インテリジェンス    
+        - [情報なき国家の悲劇 大本営参謀の情報戦記](https://www.amazon.co.jp/dp/4167274027)
+        - [NIST National Vulnerability Database](https://nvd.nist.gov/vuln)
+        - [CVE Details](https://www.cvedetails.com/)
+        - [CVSS calculator](https://www.first.org/cvss/calculator/3.1)
+
+    - MITRE ATTACK/SPARTA
+        - [MITRE att&ck framework](https://attack.mitre.org/)
+        - [SPARTA](https://sparta.aerospace.org/)
+        - [MITRE att&ck framework - ICS](https://attack.mitre.org/matrices/ics/)
+
+	- 今日の論文と創作物の中の衛星
+        - [dont look up there are sensitive internal links in the clear on geo satellites](https://satcom.sysnet.ucsd.edu/docs/dontlookup_ccs25_fullpaper.pdf)
+        - [ハッキングシーンが重要なメディア作品またはその監修に関するまとめ記事](https://qiita.com/v_avenger/items/7776396c240db4580043)
+        - [映画「スニーカーズ」 Amazon Prime](https://www.amazon.co.jp/dp/B0FTFTS5N3)
+        - [映画「スニーカーズ」 FujiTV FOD](https://fod.fujitv.co.jp/title/d3nh/d3nh130001)
+        - [小説「カッコウはコンピュータに卵を産む」](https://amzn.asia/d/03ZL03Td)
+        - [ハッカーになろう How To Become A Hacker](https://cruel.org/freeware/hacker.html)
+        - [ゴルゴ13：第363話『リスキー・ビジネス』](https://amzn.asia/d/0aJI4IqP)
+
+    - 一般的なサイバーセキュリティの学位、キャリア、資格
+        - [NASA Space App Challenge Tokyo](https://tokyo.spaceapps.jp/)
+        - [Hack-A-Sat (CTF)](https://afresearchlab.com/hack-a-sat/)
+        - [IEEE Symposium on Security and Privacy 2026](https://sp2026.ieee-security.org/)
+        - [USENIX Security](https://www.usenix.org/conference/usenixsecurity26)
+        - [コンピュータセキュリティシンポジウム (CSS: Computer Security Symposium)](https://www.iwsec.org/css/)
+        - [暗号と情報セキュリティシンポジウム SCIS](https://www.iwsec.org/scis/2026/)
+        - [情報処理安全確保支援士](https://www.ipa.go.jp/shiken/kubun/sc.html)
+        - [CISSP](https://www.isc2.org/certifications/cissp)
+        - [SANS](https://www.sans.org/cyber-security-skills-roadmap)
+        - [Offensive Security Certified Professional (OSCP)](https://www.offsec.com/courses/pen-200/)
+
