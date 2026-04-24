@@ -285,3 +285,54 @@
         - [SANS](https://www.sans.org/cyber-security-skills-roadmap)
         - [Offensive Security Certified Professional (OSCP)](https://www.offsec.com/courses/pen-200/)
 
+- 第４回：[第４回：衛星のシステムとサイバーセキュリティ防御戦術](#Forth)
+	- 講座の内容と関係ないですが現在のイベント
+    	- [RocketLab Electron](https://rocketlabcorp.com/launch/electron/)
+    	- [3U CubeSat OrigamiSat-2](https://www.nanosats.eu/sat/origamisat-2)
+        - [技術書典20 オンライン4/11-4/26](https://techbookfest.org/event/tbf20/)
+        - [航空機と衛星のサイバーセキュリティ入門II 「空と宇宙のサイバーセキュリティ入門」補足](https://techbookfest.org/product/7wcHbwRP7xXEcfjbeCFGyB?productVariantID=nKstrBc5DDa9q8eVih3Z8U)
+
+    - FLATSAT/PWSAT
+        - [PWNSAT](https://pwnsat.org/)    
+        - [FLATSAT](https://github.com/Pwnsat/FlatSat)
+    
+    - 第１回ー第３回の復習
+        - [SatNOGS – Open Source global network of satellite ground](https://satnogs.org/)
+        - [SPARTA](https://sparta.aerospace.org/)        
+
+    - Attack Surfaceとセグメント
+        - [Key Components of a Personal Computer Motherboard](https://www.fs-pcba.com/key-components-of-a-pc-motherboard/)
+    	- [コンピューターの5大装置とCPU](https://www.kenschool.jp/blog/?p=5572)
+
+    - 宇宙・通信セグメント
+        - [Wireshark](https://www.wireshark.org/)
+        - [ネットワークセキュリティ - ファイアウォール](https://www.infraexpert.com/study/security3.html)    
+        - [【図解付き】IPSとは？意味や機能、違いをわかりやすく解説](https://it-column.mjeinc.co.jp/what-is-ips/)
+
+    - 宇宙セグメント
+        - [ネクサスシステム概要](https://stage.tksc.jaxa.jp/taurus/students/nexus/1_System.html)
+
+    - 通信セグメント
+        - [日本アマチュア無線連盟](https://www.jarl.org/index_1_hajimeru.html)    
+        - [エアバンドレシーバー](https://www.amazon.co.jp/%E3%82%A8%E3%82%A2%E3%83%90%E3%83%B3%E3%83%89%E3%83%AC%E3%82%B7%E3%83%BC%E3%83%90%E3%83%BC/s?k=%E3%82%A8%E3%82%A2%E3%83%90%E3%83%B3%E3%83%89%E3%83%AC%E3%82%B7%E3%83%BC%E3%83%90%E3%83%BC)
+        - [RTL-SDR](https://www.rtl-sdr.com/)    
+        - [総務省Webページ 「陸上・海上航空分野の電波利用状況（周波数別利用状況一覧）」](https://www.soumu.go.jp/soutsu/chugoku/fieldinfo/denpa_ri_musen_riku_kai.html)    
+        - [CCSDS SPACE DATA LINK SECURITY PROTOCOL](https://ccsds.org/Pubs/355x0b2.pdf)
+        - [CCSDSPy](https://github.com/CCSDSPy/ccsdspy)
+
+    - 衛星バスのシミュレーション
+        - [PWNSAT](https://pwnsat.org/)    
+        - [FLATSAT](https://github.com/Pwnsat/FlatSat)
+        - [Electronic cats](https://electroniccats.com/flat-sat/)    
+        - [NASA Operational Simulator for Space Systems (NOS3)](https://github.com/nasa/nos3)   
+        - [YAMCS](https://yamcs.org/)    
+
+    - FLATSAT/PWSAT 
+        - [PWNSAT](https://pwnsat.org/)    
+        - [FLATSAT](https://github.com/Pwnsat/FlatSat)
+        - [TINYGS](https://tinygs.com/)
+        - [SatNOGS – Open Source global network of satellite ground](https://db.satnogs.org/)
+
+	- 今日の論文と創作物の中の衛星
+        - [Securing space Cyber security for low earth orbit satellite communications](https://www.cyber.gov.au/sites/default/files/2026-03/Securing%20space%20-%20Cyber%20Security%20for%20low%20earth%20orbit%20satellite%20communications.pdf)
+        - [「ジーザスII」検索結果](https://www.google.com/search?q=%E3%82%B8%E3%83%BC%E3%82%B6%E3%82%B9II)
