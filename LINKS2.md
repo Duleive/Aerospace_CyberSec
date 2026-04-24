@@ -304,11 +304,12 @@
         - [Key Components of a Personal Computer Motherboard](https://www.fs-pcba.com/key-components-of-a-pc-motherboard/)
     	- [コンピューターの5大装置とCPU](https://www.kenschool.jp/blog/?p=5572)
 
-    - 宇宙・通信セグメント
+    - ネットワークセキュリティ (宇宙・通信セグメント)
         - [Wireshark](https://www.wireshark.org/)
         - [ネットワークセキュリティ - ファイアウォール](https://www.infraexpert.com/study/security3.html)    
-        - [【図解付き】IPSとは？意味や機能、違いをわかりやすく解説](https://it-column.mjeinc.co.jp/what-is-ips/)
-
+        - [【図解付き】IPSとは？意味や機能、違いをわかりやすく解説](https://it-column.mjeinc.co.jp/what-is-ips/)  
+        - [テスト用のWebサーバー](http://example.com/)
+        - 
     - 宇宙セグメント
         - [ネクサスシステム概要](https://stage.tksc.jaxa.jp/taurus/students/nexus/1_System.html)
 
