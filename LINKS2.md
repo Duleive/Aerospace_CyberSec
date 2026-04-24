@@ -285,7 +285,7 @@
         - [SANS](https://www.sans.org/cyber-security-skills-roadmap)
         - [Offensive Security Certified Professional (OSCP)](https://www.offsec.com/courses/pen-200/)
 
-- 第４回：[第４回：衛星のシステムとサイバーセキュリティ防御戦術](#Forth)
+- 第４回：[第４回：衛星のシステムとサイバーセキュリティ防御戦術](#Fourth)
 	- 講座の内容と関係ないですが現在のイベント
     	- [RocketLab Electron](https://rocketlabcorp.com/launch/electron/)
     	- [3U CubeSat OrigamiSat-2](https://www.nanosats.eu/sat/origamisat-2)
