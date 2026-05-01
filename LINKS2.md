@@ -285,7 +285,7 @@
         - [SANS](https://www.sans.org/cyber-security-skills-roadmap)
         - [Offensive Security Certified Professional (OSCP)](https://www.offsec.com/courses/pen-200/)
 
-- 第４回：[第４回：衛星のシステムとサイバーセキュリティ防御戦術](#Fourth)
+- 第４回：[衛星のシステムとサイバーセキュリティ防御戦術](#Forth)
 	- 講座の内容と関係ないですが現在のイベント
     	- [RocketLab Electron](https://rocketlabcorp.com/launch/electron/)
     	- [3U CubeSat OrigamiSat-2](https://www.nanosats.eu/sat/origamisat-2)
@@ -304,11 +304,10 @@
         - [Key Components of a Personal Computer Motherboard](https://www.fs-pcba.com/key-components-of-a-pc-motherboard/)
     	- [コンピューターの5大装置とCPU](https://www.kenschool.jp/blog/?p=5572)
 
-    - ネットワークセキュリティ (宇宙・通信セグメント)
+    - 宇宙・通信セグメント
         - [Wireshark](https://www.wireshark.org/)
         - [ネットワークセキュリティ - ファイアウォール](https://www.infraexpert.com/study/security3.html)    
-        - [【図解付き】IPSとは？意味や機能、違いをわかりやすく解説](https://it-column.mjeinc.co.jp/what-is-ips/)  
-        - [テスト用のWebサーバー](http://example.com/)
+        - [【図解付き】IPSとは？意味や機能、違いをわかりやすく解説](https://it-column.mjeinc.co.jp/what-is-ips/)
 
     - 宇宙セグメント
         - [ネクサスシステム概要](https://stage.tksc.jaxa.jp/taurus/students/nexus/1_System.html)
@@ -337,3 +336,45 @@
 	- 今日の論文と創作物の中の衛星
         - [Securing space Cyber security for low earth orbit satellite communications](https://www.cyber.gov.au/sites/default/files/2026-03/Securing%20space%20-%20Cyber%20Security%20for%20low%20earth%20orbit%20satellite%20communications.pdf)
         - [「ジーザスII」検索結果](https://www.google.com/search?q=%E3%82%B8%E3%83%BC%E3%82%B6%E3%82%B9II)
+
+
+- 第５回：[GPS、ジャミング、スプーフィング](#Fifth)
+	- 講座の内容と関係ないですが今後のイベント
+    	- [CYSAT May 20-21st Paris](https://cysat.eu/cysat-europe/)
+    	- [DEFCON USA Aug 6-9th LasVegas](https://defcon.org/)
+        - [Aerospace Village Call for papers for DEFCON USA](https://x.com/SecureAerospace/status/2030995803947373038)
+        - [航空機と衛星のサイバーセキュリティ入門II 「空と宇宙のサイバーセキュリティ入門」補足](https://techbookfest.org/product/7wcHbwRP7xXEcfjbeCFGyB?productVariantID=nKstrBc5DDa9q8eVih3Z8U)
+
+    - 第４回の復習
+        - [SatNOGS – Open Source global network of satellite ground](https://satnogs.org/)
+        - [SPARTA](https://sparta.aerospace.org/)        
+        - [Wireshark](https://www.wireshark.org/)
+        - [RTL-SDR](https://www.rtl-sdr.com/)    
+        - [総務省Webページ 「陸上・海上航空分野の電波利用状況（周波数別利用状況一覧）」](https://www.soumu.go.jp/soutsu/chugoku/fieldinfo/denpa_ri_musen_riku_kai.html)  
+        - [CCSDS SPACE DATA LINK SECURITY PROTOCOL](https://ccsds.org/)  
+        - [CCSDS SPACE DATA LINK SECURITY PROTOCOL STANDARD](https://ccsds.org/Pubs/355x0b2.pdf)
+        - [PWNSAT](https://pwnsat.org/)    
+        - [FLATSAT](https://github.com/Pwnsat/FlatSat)
+        - [TINYGS](https://tinygs.com/)
+        - [SatNOGS – Open Source global network of satellite ground](https://db.satnogs.org/)
+
+    - GNSS/GPS
+        - [電子航法研究所「衛星測位システム(コアシステム)」](https://www.enri.go.jp/jp/research/organization/nav/sbas.html)    
+        - [準天頂衛星システム(Quasi-Zenith Satellite System(QZSS))「みちびき」](https://qzss.go.jp/)
+        - [QZSSの軌道](https://qzss.go.jp/overview/services/tech01_orbit.html)
+        - [GPS](https://satellitemap.space/?constellation=GPS)
+
+    - ジャミング・スプーフィング
+        - [Flightradar GPS Jamming Map](https://www.flightradar24.com/)    
+        - [GPSJAM](https://gpsjam.org/)
+        - [GPS Jamming / Spoofing map](https://www.google.com/search?q=GPS+Jamming+%2F+Spoofing+map&oq=GPS+Jamming+%2F+Spoofing+map)
+        - [Satellite Jamming Simulator](https://github.com/deptofdefense/satellite-jamming-simulator)
+        - [総務省 関東総合通信局「携帯電話等の通信抑止装置(ジャマー等)について」](https://www.soumu.go.jp/soutsu/kanto/re/info/yokusi/index.html)
+
+	- 今日の論文と創作物の中の衛星
+        - [DDS at DEFCON](https://github.com/deptofdefense/dds-at-DEFCON)
+        - [HACK-A-SAT RESOURCE LIBRARY](https://github.com/deptofdefense/hack-a-sat-library)
+        - [映画「機動警察パトレイバー 2 the Movie」](https://patlabor.tokyo/story/1220/)
+        - [Amazon Prime Video](https://www.amazon.co.jp/dp/B0FK3JTQ1H)
+        - [幻の爆撃](https://dic.pixiv.net/a/%E5%B9%BB%E3%81%AE%E7%88%86%E6%92%83)
+        - [攻殻機動隊](https://ja.wikipedia.org/wiki/%E6%94%BB%E6%AE%BB%E6%A9%9F%E5%8B%95%E9%9A%8A)
