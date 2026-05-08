@@ -378,3 +378,36 @@
         - [Amazon Prime Video](https://www.amazon.co.jp/dp/B0FK3JTQ1H)
         - [幻の爆撃](https://dic.pixiv.net/a/%E5%B9%BB%E3%81%AE%E7%88%86%E6%92%83)
         - [攻殻機動隊](https://ja.wikipedia.org/wiki/%E6%94%BB%E6%AE%BB%E6%A9%9F%E5%8B%95%E9%9A%8A)
+
+
+- 第６回：[フォローアップ回](#Sixth)
+	- QandA
+        - [gpredict](https://github.com/csete/gpredict)
+        - [SatDump](https://www.satdump.org/)        
+        - [EPOCH](https://www.kratosspace.com/products/satellites/command-and-control/epoch-ips)     
+        - [Anthropic Project Glasswing](https://www.anthropic.com/glasswing)
+        - [Anthropic Claude Code Security Reviewer](https://github.com/anthropics/claude-code-security-review)   
+        - [Anthropic Academy](https://www.anthropic.com/learn)
+        - [第６世代戦闘機](https://ja.wikipedia.org/wiki/%E7%AC%AC6%E4%B8%96%E4%BB%A3%E3%82%B8%E3%82%A7%E3%83%83%E3%83%88%E6%88%A6%E9%97%98%E6%A9%9F)    
+        - [防衛装備庁　空戦ＡＩチャレンジ](http://user.competition.signate.jp/en/competition/detail/?competition=de1556abda294254b30bdec61520f764)
+        - [（ゲーム）エースコンバット６　ノスフェラトゥ](https://w.atwiki.jp/acecombat6/pages/38.html)    
+    	- [Space ISAC](https://spaceisac.org/)
+    	- [Space ISAC](https://japan-space-isac.jp/)
+        - [NISC](https://www.cyber.go.jp/)
+
+	- 宇宙一般を学ぶためのリソース
+        - [JAXA 宇宙教育センター](https://edu.jaxa.jp/)  
+        - [宇宙ミュージアム TenQ](https://www.tokyo-dome.co.jp/tenq/)  
+        - [JAXA相模原キャンパス一般公開](https://www.isas.jaxa.jp/outreach/events/004226.html)
+        - [小学館の図鑑NEO〔新版〕 宇宙 DVDつき](https://www.shogakukan.co.jp/pr/neo/series/09217309.php)  
+        - [映画「ライトスタッフ」](https://www.warnerbros.co.jp/home_entertainment/sul2h8khnj/)
+        - [王立宇宙軍　オネアミスの翼](https://www.amazon.co.jp/dp/B01L7OXMOI)
+        - [人工衛星・惑星探査機のための宇宙工学](https://www.coronasha.co.jp/np/isbn/9784339046892/)  
+        - [月をマーケティングする](https://tashiseisei-kyoto.com/products/9784822250430)
+
+	- 今後のイベント
+        - [CYSAT May 20-21st Paris](https://cysat.eu/cysat-europe/)  
+        - [DEFCON USA Aug 6-9th LasVegas](https://defcon.org/)
+        - [CyberSat 2026 11/2-5, VA](https://www.cybersatsummit.com/)  
+        - [第70回宇宙科学技術連合講演会 11/10-13 宇都宮市](https://smartconf.jp/content/sstc69/next_venue)     
+        - [TenguCon 11月](https://tengucon.org/)  
