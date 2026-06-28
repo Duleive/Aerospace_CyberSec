@@ -411,3 +411,40 @@
         - [CyberSat 2026 11/2-5, VA](https://www.cybersatsummit.com/)  
         - [第70回宇宙科学技術連合講演会 11/10-13 宇都宮市](https://smartconf.jp/content/sstc69/next_venue)     
         - [TenguCon 11月](https://tengucon.org/)  
+
+
+- 第7回：[人工衛星シミュレーターNOS^3](#Seventh)
+	- 人工衛星シミュレーターNOS^3の紹介
+        - [NASA Operational Simulator for Small Satellites (NOS^3)](https://software.nasa.gov/software/GSC-17737-1)
+        - [GitHub Repo](https://github.com/nasa/nos3)
+        - [Manual](https://nos3.readthedocs.io/en/latest/)
+
+	- Install 
+	- 以下のソフトウェアを使用します。ダウンロード・インストール（自己責任でお願いします）しておいてください。
+        - [Oracle Virtual Box (Oracle VB)](https://www.virtualbox.org/)
+        - [Vagrant](https://releases.hashicorp.com/vagrant/)
+        - [Git on Windoes](https://git-scm.com/install/windows)
+
+	- もし講師と全く同じにヴァージョンにしたい場合、以下の通りにダウンロードしてください。
+        - [Oracle Virtual Box (Oracle VB) v7.0.18](https://www.virtualbox.org/wiki/Download_Old_Builds_7_0)
+        - 下の方にスクロールして、VirtualBox 7.0.18 (released May 07 2024)​の下のWindows hostsをダブルクリックしてダウンロードします。
+        - [Vagrant v2.4.1](https://releases.hashicorp.com/vagrant/2.4.1/)
+        - CPUがAMDの場合は　vagrant_2.4.1_windows_amd64.msiをクリックしてダウンロードします。
+        - [Gitはどのヴァージョンでも問題ありません。](https://git-scm.com/install/windows)
+
+ 	- gpredict のデモ
+        - [gpredict](https://github.com/csete/gpredict)
+　
+	- 今後のイベント
+        - [HackFes 2026 7/18 秋葉原UDX](https://hackfes2026.hacker.or.jp/)
+        - [DEFCON USA Aug 6-9th LasVegas](https://defcon.org/)
+        - [AEROSPACE VILLAGE STARPWN CTF Aug 6-9th LasVegas](https://starpwn.ctfd.io/)
+        - [CyberSat 2026 11/2-5, VA](https://www.cybersatsummit.com/)  
+        - [第70回宇宙科学技術連合講演会 11/10-13 宇都宮市](https://smartconf.jp/content/sstc69/next_venue)     
+        - [CodeBlue 11/17-11/18　高田馬場](https://codeblue.jp/)  
+        - [TenguCon 11/19-11/20　秋葉原](https://tengucon.org/)  
+        - [A.V.Tokyo 2026 11/21　渋谷](https://www.avtokyo.org/avtokyo2026)  
+        - [技術書典　11/23　池袋](https://techbookfest.org/event/tbf21)                  
+
+
+
