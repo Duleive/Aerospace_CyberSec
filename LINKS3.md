@@ -3,9 +3,12 @@
 本講演に参加された方へ
 期間限定で講演に使用した[スライド](HackFes2026_SAS_nonv.pdf)を公開します。ただし、念のため、私作成以外の画像は削除してあります。
 
-	- 宇宙サイバーセキュリティ勉強会
-        - [宇宙サイバーセキュリティ勉強会](https://aerospace.connpass.com/)]
 
+
+- 宇宙サイバーセキュリティ勉強会
+        - [宇宙サイバーセキュリティ勉強会](https://aerospace.connpass.com/)
+
+- 講演中に現れたスライド(#Zero)
     - 衛星の軌道
         - [王立宇宙軍　オネアミスの翼](https://www.amazon.co.jp/dp/B01L7OXMOI)
         - [宇宙旅行の現在とは？　3種類に分類して現状や価格帯、提供企業を解説！](https://news.mynavi.jp/techplus/article/20210521-1891512/)
