@@ -11,8 +11,9 @@
 - 講演中に現れたスライド(#Zero)
     - 衛星の軌道
         - [王立宇宙軍　オネアミスの翼](https://www.amazon.co.jp/dp/B01L7OXMOI)
-        - [宇宙旅行の現在とは？　3種類に分類して現状や価格帯、提供企業を解説！](https://news.mynavi.jp/techplus/article/20210521-1891512/)
-        - [Two Line Element (TLE)の説明](https://gportal.jaxa.jp/gpr/assets/mng_upload/GCOM-C/TLE_ja.pdf)
+        - [NORAD](https://ja.wikipedia.org/wiki/%E5%8C%97%E3%82%A2%E3%83%A1%E3%83%AA%E3%82%AB%E8%88%AA%E7%A9%BA%E5%AE%87%E5%AE%99%E9%98%B2%E8%A1%9B%E5%8F%B8%E4%BB%A4%E9%83%A8)
+        - [CelesTrak](https://celestrak.org/NORAD/elements/)
+		- [Two Line Element (TLE)の説明](https://gportal.jaxa.jp/gpr/assets/mng_upload/GCOM-C/TLE_ja.pdf)
         - [人工衛星・惑星探査機のための宇宙工学](https://amzn.asia/d/0c5fKgJR)
 
 	- 衛星サービスのWebアプリケーション
