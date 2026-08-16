@@ -444,7 +444,68 @@
         - [CodeBlue 11/17-11/18　高田馬場](https://codeblue.jp/)  
         - [TenguCon 11/19-11/20　秋葉原](https://tengucon.org/)  
         - [A.V.Tokyo 2026 11/21　渋谷](https://www.avtokyo.org/avtokyo2026)  
-        - [技術書典　11/23　池袋](https://techbookfest.org/event/tbf21)                  
+        - [技術書典　11/23　池袋](https://techbookfest.org/event/tbf21)       
 
+- 番外編(第8回)：[番外編：DEFCON CTF 振り返り](#Eighth)
+	- サイバーセキュリティの主要なイベント     
+        - [BlackHat USA 8/5-6](https://blackhat.com/us-26/)
+        - [DEFCON 8/7-8/10](https://defcon.org/html/defcon-33/dc-33-index.html)
+        - [RSA Security](https://www.rsaconference.com/)
 
+	- 宇宙サイバーセキュリティの主要なイベント  
+        - [DEFCON USA Aug 6-9th LasVegas](https://defcon.org/)
+        - [DEFCON Aerospace Village](https://www.aerospacevillage.org/def-con-33/)
+        - [CyberSat 2026 11/2-5, VA](https://www.cybersatsummit.com/)  
+        - [CYSAT EUROPE（パリ）](https://cysat.eu/cysat-europe/)
+        - [CYSAT ASIA（シンガポール）](https://cysat.eu/cysat-asia/)
 
+	- 今年のサイバーセキュリティのイベントの講演会の資料     
+        - [DEFCON34 video](https://media.defcon.org/DEF%20CON%2034/DEF%20CON%2034%20presentations/DEF%20CON%2034%20presentations/)
+        - [DEFCON34 Talk slides](https://media.defcon.org/DEF%20CON%2034/DEF%20CON%2034%20presentations/DEF%20CON%2034%20presentations/)
+        - [BlackHat USA 2026 video](https://www.youtube.com/@BlackHatOfficialYT)
+        - [CYSAT Youtube](https://www.youtube.com/@CYSAT)
+
+	- CTF初心者のためのリソース     
+        - [ksnctf](https://ksnctf.sweetduet.info/)
+        - [SECCON BEGINNERS](https://www.seccon.jp/15/seccon_beginners/ctf.html)
+        - [本「詳解セキュリティコンテスト ~CTFで学ぶ脆弱性攻略の技術」](https://www.amazon.co.jp/dp/4839973490)
+
+	- DEFCONの主要なCTF     
+        - [AEROSPACE VILLAGE STARPWN CTF Aug 7-9th LasVegas](https://starpwn.ctfd.io/)
+        - [同上](https://hackertracker.app/defcon34/content/67735)
+        - [Car Hacking Village CTF Aug 7-9th LasVegas](https://www.carhackingvillage.com/ctf-rules)
+        - [同上](https://hackertracker.app/defcon34/content/67776)
+
+    - CTFTime
+        - [CTF Time](https://ctftime.org)
+        - [STARPWN CTF](https://ctftime.org/event/3342/)
+
+	- Aerospace Villageで開催されたCTF(HackTracker)    
+        - [STARPWN CTF](https://hackertracker.app/defcon34/content/67735)
+        - [Aviation ISAC CTF](https://aviationcyberctf.com/)
+        - [Aerospace Ecosystem Resilience Innovation Environment (AERIE) Cyber Range](https://hackertracker.app/defcon34/content/67737)
+        - [ARINC 664 CTF Challenge](https://hackertracker.app/defcon34/content/67736)
+        - [DCNextGen - RIC-1: ELT Localization Exercise - N3VR-G0N Down](https://hackertracker.app/defcon34/content/67741)
+        - [DCNextGen - Space Grand Challenge - SatHack: The MOUSE-1 Missio](https://hackertracker.app/defcon34/content/67742)
+        - [Drone Hacking Choose your Own Adventure](https://hackertracker.app/defcon34/content/67743)
+        - [Nebula Showdown: Space Systems Security CTF Adventure](https://hackertracker.app/defcon34/content/67748)
+        - [Satellites Under Attack: Hands-On Satellite Security Threat Scenarios](https://hackertracker.app/defcon34/content/67750)
+        - [SpaceCOP - Catch Me If You Can](https://hackertracker.app/defcon34/content/67751)
+
+	- STARPWN CTFと旧Hack-A-Sat     
+        - [AEROSPACE VILLAGE STARPWN CTF Aug 7-9th LasVegas](https://starpwn.ctfd.io/)
+        - [Aerospace Villageのサイト](https://www.aerospacevillage.org/event-details-registration/defcon-2026-08-06-19-00)
+        - [Hack-A-Sat](https://hackasat.com/)
+        - [DDS-at-DEFCON](https://github.com/deptofdefense/dds-at-DEFCON)
+        - [SAT Hacking library](https://github.com/deptofdefense/hack-a-sat-library)
+        - [Youtube動画](https://www.youtube.com/results?search_query=hack-a-sat+defcon)
+
+	- STARPWN PWN WriteUp
+        - [モールス信号デコーダー](https://morse-site.com/audiodecoder/)
+        - [Two Line Element (TLE)の説明](https://gportal.jaxa.jp/gpr/assets/mng_upload/GCOM-C/TLE_ja.pdf)
+    	- [NORAD(北アメリカ航空宇宙防衛司令部)](https://ja.wikipedia.org/wiki/%E5%8C%97%E3%82%A2%E3%83%A1%E3%83%AA%E3%82%AB%E8%88%AA%E7%A9%BA%E5%AE%87%E5%AE%99%E9%98%B2%E8%A1%9B%E5%8F%B8%E4%BB%A4%E9%83%A8)
+    	- [CelesTrak](https://celestrak.org/)
+    	- [N2YO](https://www.n2yo.com/)
+    	- [satellite tracker3D](https://satellitetracker3d.com/)
+    	- [CCSDSの概要](https://stage.tksc.jaxa.jp/ccsds/ccsds/CCSDS_overview.html)
+    	- [今日みつけたWriteUp](https://github.com/Malaysia-Hardware-Hacking-Community/STARPWN-Writeups)
