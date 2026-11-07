@@ -6,14 +6,14 @@
 
 
 - 講習会ページ
-        - [Peatix](https://peatix.com/event/5170736)
-        - [connpass (告知のみ)](https://aerospace.connpass.com/event/406982/)
+   - [Peatix](https://peatix.com/event/5170736)
+   - [connpass (告知のみ)](https://aerospace.connpass.com/event/406982/)
       
 - 主催団体　
-        - [航空宇宙サイバーセキュリティ勉強会](https://aerospace.connpass.com/)
+   - [航空宇宙サイバーセキュリティ勉強会](https://aerospace.connpass.com/)
 
 - FLATSAT project
-        - [FlatSat GitHub リポジトリ](https://github.com/Pwnsat/FlatSat)
+   - [FlatSat GitHub リポジトリ](https://github.com/Pwnsat/FlatSat)
 
 
 - 事前準備・事前講習
