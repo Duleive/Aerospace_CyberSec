@@ -446,7 +446,7 @@
         - [A.V.Tokyo 2026 11/21　渋谷](https://www.avtokyo.org/avtokyo2026)  
         - [技術書典　11/23　池袋](https://techbookfest.org/event/tbf21)       
 
-- 番外編(第8回)：[番外編：DEFCON CTF 振り返り](#Eighth)
+- 番外編(第7.5回)：[番外編：DEFCON CTF 振り返り]
 	- サイバーセキュリティの主要なイベント     
         - [BlackHat USA 8/5-6](https://blackhat.com/us-26/)
         - [DEFCON 8/7-8/10](https://defcon.org/html/defcon-33/dc-33-index.html)
@@ -509,3 +509,41 @@
     	- [satellite tracker3D](https://satellitetracker3d.com/)
     	- [CCSDSの概要](https://stage.tksc.jaxa.jp/ccsds/ccsds/CCSDS_overview.html)
     	- [今日みつけたWriteUp](https://github.com/Malaysia-Hardware-Hacking-Community/STARPWN-Writeups)
+
+- 第８回：[AIによるゲームチェンジと、イベントの予告](#Eighth)
+
+    - 前回までの復習：
+    	- [気象衛星ひまわり](https://www.jma.go.jp/bosai/map.htm)
+        - [SatNOGS – Open Source global network of satellite ground](https://satnogs.org/)
+    	- [N2YO](https://www.n2yo.com/)
+
+	- 宇宙サイバーセキュリティの衛星
+        - [Moonlighter](https://space.skyrocket.de/doc_sdat/moonlighter.htm)
+        - [China Launches First-Generation 'Satellite Internet Firewall' Security Payload](https://uniteddaily.my/en/e763c987-6451-4bed-97dd-5bb0ac2bc801)
+        - [世界初のIDS衛星 Deloitte-1 satellite](https://www.eoportal.org/satellite-missions/deloitte-1)
+
+	- 宇宙サイバーセキュリティ事件
+        - [KA-SAT Network cyber attack overview](https://news.viasat.com/blog/corporate/ka-sat-network-cyber-attack-overview)
+        - [2007-2008 LandSat-7 /Terra interference](https://www.space.com/13423-hackers-government-satellites.html)
+        - [キャプテン・ミッドナイト事件](https://en.wikipedia.org/wiki/Captain_Midnight_broadcast_signal_intrusion)
+        - [Glitched on Earth by Humans: A Black-Box Security Evaluation of the SpaceX Starlink User Terminal](https://www.youtube.com/watch?v=NXqLMmGwJm0)
+
+	- SPARTA
+        - [MITRE att&ck framework](https://attack.mitre.org/)
+        - [SPARTA](https://sparta.aerospace.org/)
+
+    - 人工衛星シミュレーター
+        - [PWNSAT](https://pwnsat.org/)    
+        - [FLATSAT](https://github.com/Pwnsat/FlatSat)
+        - [Satellite Jamming Simulator](https://github.com/deptofdefense/satellite-jamming-simulator)    
+        - [NASA Operational Simulator for Space Systems (NOS3)](https://github.com/nasa/nos3)   
+        - [YAMCS](https://yamcs.org/)    
+
+    - 衛星通信におけるルールチェンジ
+        - [How Many Satellites Are in Space? The Spike in Numbers Continues](https://blog.ucs.org/syoung/how-many-satellites-are-in-space-the-spike-in-numbers-continues/)    
+
+	- 来週(11/17-11/22)のイベント
+        - [11/17-18 航空宇宙Village @ CODEBLUE（高田馬場）](https://aerospace.connpass.com/event/410724/)
+        - [11/19-20 航空宇宙Village @TENGUCON（秋葉原）](https://aerospace.connpass.com/event/411569/)
+        - [11/21-22 宇宙サイバーセキュリティ ハンズオン講習会(申し込み終了）](https://aerospace.connpass.com/event/406982/)
+        - [技術書典　11/23　池袋](https://techbookfest.org/event/tbf21)    
